@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1632806949445" clover="3.2.0">
+  <project timestamp="1632806949445" name="All files">
+    <metrics statements="28" coveredstatements="24" conditionals="14" coveredconditionals="12" methods="2" coveredmethods="1" elements="44" coveredelements="37" complexity="0" loc="28" ncloc="28" packages="1" files="1" classes="1"/>
+    <file name="calculoController.js" path="D:\Francisco\varios\Node\Prueba\PruebaFPay\controllers\calculoController.js">
+      <metrics statements="28" coveredstatements="24" conditionals="14" coveredconditionals="12" methods="2" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="5" count="1" type="cond" truecount="0" falsecount="2"/>
+      <line num="7" count="0" type="stmt"/>
+      <line num="8" count="0" type="stmt"/>
+      <line num="9" count="0" type="stmt"/>
+      <line num="11" count="0" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="21" count="4" type="stmt"/>
+      <line num="22" count="4" type="stmt"/>
+      <line num="23" count="4" type="cond" truecount="4" falsecount="0"/>
+      <line num="25" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="26" count="1" type="stmt"/>
+      <line num="28" count="1" type="stmt"/>
+      <line num="31" count="2" type="stmt"/>
+      <line num="32" count="14" type="stmt"/>
+      <line num="33" count="14" type="stmt"/>
+      <line num="35" count="14" type="stmt"/>
+      <line num="37" count="16" type="cond" truecount="2" falsecount="0"/>
+      <line num="38" count="8" type="stmt"/>
+      <line num="39" count="8" type="stmt"/>
+      <line num="42" count="14" type="cond" truecount="2" falsecount="0"/>
+      <line num="43" count="6" type="stmt"/>
+      <line num="46" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="47" count="1" type="stmt"/>
+      <line num="49" count="1" type="stmt"/>
+      <line num="53" count="4" type="stmt"/>
+      <line num="56" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
